@@ -27,6 +27,7 @@ body {
   grid-column: 1/4;
   grid-row: 1;
   background-color: blue;
+  /* insert background image */
 }
 /* .wrapper1 {
   display: grid;
@@ -35,23 +36,41 @@ body {
   background-color: rgb(255, 30, 0);
 } */
 .introduction {
-  background-color: rgb(255, 30, 1);
+  /* background-color: rgb(255, 30, 1); */
   grid-column: 1/2;
   grid-row: 2/3;
   font-size: small;
+  font-style: italic;
+  /* border-radius: 10px;
+  border-color: skyblue; */
 }
 .pros-cons {
-  background-color: rgb(127, 48, 180);
+  /* background-color: rgb(127, 48, 180); */
   grid-column: 2/3;
   grid-row: 2/3;
   font-size: small;
+  font-style: italic;
 }
 .tips {
-  background-color: rgb(13, 236, 217);
+  /* background-color: rgb(13, 236, 217); */
   grid-column: 3/3;
   grid-row: 2/3;
   font-size: small;
+  font-style: italic;
 }
+.shs {
+  text-align: center;
+  font-weight: 500;
+}
+.adv {
+  text-align: center;
+  font-weight: 500;
+}
+.tip {
+  text-align: center;
+  font-weight: 500;
+}
+
 .homaya {
   grid-column: 1;
   grid-row: 4/8;
