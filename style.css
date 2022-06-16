@@ -27,7 +27,7 @@ body {
   grid-column: 1/4;
   grid-row: 1;
   background-color: blue;
-  /* insert background image */
+  background-image: url(C:\Users\TSS-PC-015\Desktop\Me\Programs\WebpageAdvert\images);
 }
 /* .wrapper1 {
   display: grid;
@@ -105,4 +105,6 @@ body {
   grid-column: 2/2;
   grid-row: 8;
   text-align: center;
+  font-size: 12px;
+  font-style: italic;
 }
