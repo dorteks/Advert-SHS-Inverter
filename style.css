@@ -76,15 +76,30 @@ body {
   grid-row: 4/8;
   background-color: rgb(58, 219, 85);
 }
+.homaya1500VA {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 500;
+}
 .schneider {
   grid-column: 2;
   grid-row: 4/8;
   background-color: rgb(179, 231, 34);
 }
+.schneider4048 {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 500;
+}
 .phocos {
   grid-column: 3;
   grid-row: 4/8;
   background-color: rgb(221, 22, 178);
+}
+.phocos5KW {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 500;
 }
 .footer {
   grid-column: 2/2;
