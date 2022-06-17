@@ -104,6 +104,9 @@ body {
 .homaya .component {
   font-size: 13px;
   font-style: oblique;
+  font-weight: 500;
+  margin-bottom: 2px;
+  margin-bottom: 2px;
 }
 .homaya ul {
   font-size: 13px;
@@ -119,6 +122,18 @@ body {
   font-size: 15px;
   font-weight: 500;
 }
+.schneider .component {
+  font-size: 13px;
+  font-style: oblique;
+  font-weight: 500;
+  margin-bottom: 2px;
+  margin-bottom: 2px;
+}
+.schneider ul {
+  font-size: 13px;
+  margin-left: 7px;
+  padding: 2px;
+}
 .phocos {
   grid-column: 3;
   grid-row: 4/8;
@@ -127,6 +142,18 @@ body {
   text-align: center;
   font-size: 15px;
   font-weight: 500;
+}
+.phocos .component {
+  font-size: 13px;
+  font-style: oblique;
+  font-weight: 500;
+  margin-bottom: 2px;
+  margin-bottom: 2px;
+}
+.phocos ul {
+  font-size: 13px;
+  margin-left: 7px;
+  padding: 2px;
 }
 .footer {
   grid-column: 2/2;
