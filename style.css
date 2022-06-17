@@ -26,8 +26,9 @@ body {
 .container {
   grid-column: 1/4;
   grid-row: 1;
-  background-color: blue;
-  background-image: url(C:\Users\TSS-PC-015\Desktop\Me\Programs\WebpageAdvert\images);
+  /* background-color: blue; */
+
+  background-size: auto;
 }
 /* .wrapper1 {
   display: grid;
