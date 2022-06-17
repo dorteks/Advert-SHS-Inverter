@@ -101,6 +101,15 @@ body {
   font-size: 15px;
   font-weight: 500;
 }
+.homaya .component {
+  font-size: 13px;
+  font-style: oblique;
+}
+.homaya ul {
+  font-size: 13px;
+  margin-left: 7px;
+  padding: 2px;
+}
 .schneider {
   grid-column: 2;
   grid-row: 4/8;
