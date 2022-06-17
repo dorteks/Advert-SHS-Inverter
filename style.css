@@ -62,6 +62,7 @@ body {
   grid-row: 2/3;
   font-size: small;
   font-style: italic;
+  text-align: justify;
   /* border-radius: 10px;
   border-color: skyblue; */
 }
@@ -76,6 +77,7 @@ body {
   grid-row: 2/3;
   font-size: small;
   font-style: italic;
+  text-align: justify;
 }
 .shs {
   text-align: center;
