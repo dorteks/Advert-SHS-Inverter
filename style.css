@@ -155,6 +155,13 @@ body {
   margin-bottom: 2px;
   margin-bottom: 2px;
 }
+.schneider .application {
+  font-size: 13px;
+  font-style: oblique;
+  font-weight: 500;
+  margin-bottom: 2px;
+  margin-bottom: 2px;
+}
 .schneider ul {
   font-size: 13px;
   margin-left: 7px;
@@ -177,6 +184,13 @@ body {
   margin-bottom: 2px;
 }
 .phocos .component {
+  font-size: 13px;
+  font-style: oblique;
+  font-weight: 500;
+  margin-bottom: 2px;
+  margin-bottom: 2px;
+}
+.phocos .application {
   font-size: 13px;
   font-style: oblique;
   font-weight: 500;
