@@ -171,6 +171,11 @@ body {
   margin-left: 7px;
   padding: 2px;
 }
+.schneider .schneiderimage img {
+  width: 150px;
+  height: 200px;
+  text-align: center;
+}
 .phocos {
   grid-column: 3;
   grid-row: 4/8;
