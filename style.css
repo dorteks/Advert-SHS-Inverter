@@ -132,6 +132,10 @@ body {
   margin-left: 7px;
   padding: 2px;
 }
+.homaya .homayaimage img {
+  width: 250px;
+  height: 200px;
+}
 .schneider {
   grid-column: 2;
   grid-row: 4/8;
