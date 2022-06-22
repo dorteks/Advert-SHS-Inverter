@@ -211,6 +211,11 @@ body {
   margin-left: 7px;
   padding: 2px;
 }
+.phocos .phocosimage img {
+  width: 150px;
+  height: 200px;
+  text-align: center;
+}
 .footer {
   grid-column: 2/2;
   grid-row: 8;
