@@ -136,6 +136,18 @@ body {
   width: 250px;
   height: 200px;
 }
+.homaya .ads {
+  font-size: 12px;
+  font-style: italic;
+}
+.homaya .ads span {
+  position: relative;
+  margin-left: 8px;
+  margin-bottom: 5px;
+}
+.homaya .ads img {
+  height: 25px;
+}
 .schneider {
   grid-column: 2;
   grid-row: 4/8;
@@ -176,6 +188,18 @@ body {
   height: 200px;
   text-align: center;
 }
+.schneider .ads {
+  font-size: 12px;
+  font-style: italic;
+}
+.schneider .ads span {
+  position: relative;
+  margin-left: 8px;
+  margin-bottom: 5px;
+}
+.schneider .ads img {
+  height: 25px;
+}
 .phocos {
   grid-column: 3;
   grid-row: 4/8;
@@ -215,6 +239,18 @@ body {
   width: 150px;
   height: 200px;
   text-align: center;
+}
+.phocos .ads {
+  font-size: 12px;
+  font-style: italic;
+}
+.phocos .ads span {
+  position: relative;
+  margin-left: 8px;
+  margin-bottom: 5px;
+}
+.phocos .ads img {
+  height: 25px;
 }
 .footer {
   grid-column: 2/2;
