@@ -148,6 +148,13 @@ body {
 .homaya .ads img {
   height: 25px;
 }
+.homaya .price {
+  font-size: 13px;
+  font-style: oblique;
+  font-weight: 500;
+  margin-bottom: 2px;
+  margin-bottom: 2px;
+}
 .schneider {
   grid-column: 2;
   grid-row: 4/8;
@@ -200,6 +207,13 @@ body {
 .schneider .ads img {
   height: 25px;
 }
+.schneider .price {
+  font-size: 13px;
+  font-style: oblique;
+  font-weight: 500;
+  margin-bottom: 2px;
+  margin-bottom: 2px;
+}
 .phocos {
   grid-column: 3;
   grid-row: 4/8;
@@ -251,6 +265,13 @@ body {
 }
 .phocos .ads img {
   height: 25px;
+}
+.phocos .price {
+  font-size: 13px;
+  font-style: oblique;
+  font-weight: 500;
+  margin-bottom: 2px;
+  margin-bottom: 2px;
 }
 .footer {
   grid-column: 2/2;
