@@ -144,6 +144,9 @@ body {
 }
 .homaya .homayaimage p {
   text-align: center;
+  font-size: 13px;
+  font-style: oblique;
+  max-width: 80%;
 }
 .homaya .ads {
   font-size: 12px;
@@ -208,6 +211,12 @@ body {
 .schneider .schneiderimage :hover {
   opacity: 1;
 }
+.schneider .schneiderimage p {
+  text-align: center;
+  font-size: 13px;
+  font-style: oblique;
+  max-width: 80%;
+}
 .schneider .ads {
   font-size: 12px;
   font-style: italic;
@@ -270,6 +279,12 @@ body {
 }
 .phocos .phocosimage :hover {
   opacity: 1;
+}
+.phocos .phocosimage p {
+  text-align: center;
+  font-size: 13px;
+  font-style: oblique;
+  max-width: 80%;
 }
 .phocos .ads {
   font-size: 12px;
