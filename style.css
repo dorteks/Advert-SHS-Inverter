@@ -135,8 +135,12 @@ body {
   padding: 2px;
 }
 .homaya .homayaimage img {
+  opacity: 0.7;
   width: 250px;
   height: 200px;
+}
+.homaya .homayaimage :hover {
+  opacity: 1;
 }
 .homaya .ads {
   font-size: 12px;
@@ -193,9 +197,13 @@ body {
   padding: 2px;
 }
 .schneider .schneiderimage img {
+  opacity: 0.7;
   width: 150px;
   height: 200px;
   text-align: center;
+}
+.schneider .schneiderimage :hover {
+  opacity: 1;
 }
 .schneider .ads {
   font-size: 12px;
@@ -252,9 +260,13 @@ body {
   padding: 2px;
 }
 .phocos .phocosimage img {
+  opacity: 0.7;
   width: 150px;
   height: 200px;
   text-align: center;
+}
+.phocos .phocosimage :hover {
+  opacity: 1;
 }
 .phocos .ads {
   font-size: 12px;
