@@ -142,6 +142,9 @@ body {
 .homaya .homayaimage :hover {
   opacity: 1;
 }
+.homaya .homayaimage p {
+  text-align: center;
+}
 .homaya .ads {
   font-size: 12px;
   font-style: italic;
