@@ -1,6 +1,7 @@
 # sef_ad-page_inverter-systems
 
- My First Webpage Design as beginner in Front-End development.
+ My First Webpage Design as a beginner in Front-End development.
+ It was designed in the process of learning HTML, CSS and JS.
 
  Built with HTML, CSS and Javascript.
 
