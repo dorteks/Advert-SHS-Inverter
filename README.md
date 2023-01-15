@@ -6,3 +6,15 @@
  Built entirely with HTML, CSS and Javascript.
 
  It is a simple page advertising inverter systems that can be used in Homes.
+ 
+ 
+# Getting Started
+
+Clone the repository
+
+Open the html file with your browser to view the page.
+
+
+
+
+
