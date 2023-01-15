@@ -12,7 +12,7 @@
 
 Clone the repository
 
-Open the html file with your browser to view the page.
+Open the html file in your browser to view the page.
 
 
 
